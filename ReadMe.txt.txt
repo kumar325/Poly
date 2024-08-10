@@ -1,1 +1,0 @@
-I submitted a zip file of my poly.h file, poly.cpp file, and unchanged lab1.cpp. Thanks!
